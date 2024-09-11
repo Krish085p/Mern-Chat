@@ -63,7 +63,7 @@ ChatApp is a real-time messaging application built using modern web technologies
 
    ```
 3. Open a browser
-   - Navigate to 'http://localhost:4040' to start using the application.
+   - Navigate to 'http://localhost:4000' to start using the application.
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
